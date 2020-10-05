@@ -7,6 +7,21 @@ Link para o curso [Remote System] [http://remotesystem.com.br/]
 
 Suportada versão 3 do python
 
+Para instalar:
+
+```Console
+python3 -m venv .venv
+source  .venv/bin/activate
+pip -r install requirements-dev.txt
+
+```
+Para conferir qualidade do codigo:
+```
+Console
+flake8
+
+```
+
 Topicos que seram abordados no curso
 1. git
 2. virtuaenv
