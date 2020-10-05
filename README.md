@@ -10,7 +10,9 @@ Suportada versão 3 do python
 
 Para instalar:
 
-```Console
+```
+Console
+
 python3 -m venv .venv
 source  .venv/bin/activate
 pip -r install requirements-dev.txt
@@ -19,6 +21,7 @@ pip -r install requirements-dev.txt
 Para conferir qualidade do codigo:
 ```
 Console
+
 flake8
 
 ```
