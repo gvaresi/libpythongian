@@ -13,10 +13,7 @@ def buscar_avatar(usuario):
     resp = requests.get(url)
     resp2 = requests.get(url2)
     return (resp.json()['avatar_url'], resp2.json()['html_url'])
-    # return resp2.json()['html_url']
-
 
 
 if __name__ == '__main__':
-    # print(buscar_avatar('gvaresi'))
     print(buscar_avatar(input('Digite um usuario github para exibir seu avatar: ')))
