@@ -16,7 +16,7 @@ source  .venv/bin/activate
 pip -r install requirements-dev.txt
 
 ```
-Para conferir qualidade do codigo:
+Para conferir qualidade do código:
 ```
 Console
 flake8
