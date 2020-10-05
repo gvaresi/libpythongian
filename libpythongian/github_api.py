@@ -5,13 +5,12 @@ def buscar_avatar(usuario):
     """
     Busca o avatar de um usuario no github
     :param usuario: str com o nome do usuario no github
-    :return: str com o link do avatar
+    :return: str com o link do avatar e repositorio do usuario
     """
 
     url = f'https://api.github.com/users/{usuario}'
-    url2 = f'https://api.github.com/users/{usuario}'
     resp = requests.get(url)
-    resp2 = requests.get(url2)
+    resp2 = requests.get(url)
     return resp.json()['avatar_url'], resp2.json()['html_url']
 
 
