@@ -5,6 +5,8 @@ Nesse curso vamos aprender a contribuir com projetos de codigo aberto.
 
 Link para o curso [Remote System] [http://remotesystem.com.br/]
 
+Suportada versão 3 do python
+
 Topicos que seram abordados no curso
 1. git
 2. virtuaenv
