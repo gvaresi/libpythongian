@@ -7,8 +7,7 @@ Link para o curso [Remote System] [http://remotesystem.com.br/]
 [![Build Status](https://travis-ci.org/gvaresi/libpythongian.svg?branch=master)](https://travis-ci.org/gvaresi/libpythongian)
 [![Updates](https://pyup.io/repos/github/gvaresi/libpythongian/shield.svg)](https://pyup.io/repos/githu)
 [![Python 3](https://pyup.io/repos/github/gvaresi/libpythongian/python-3-shield.svg)](https://pyup.io/repos/github/gvaresi/libpythongian/)
-[![codecov](https://codecov.io/gh/gvaresi/libpythongian/branch/master/graph/badge.svg)] gvaresi/libpythongian)
-
+[![codecov](https://codecov.io/gh/gvaresi/libpythongian/branch/master/graph/badge.svg)](https://codecov.io/gh/gvaresi/libpythongian)
 
 Suportada versão 3 do python
 
