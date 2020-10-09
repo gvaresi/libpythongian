@@ -13,7 +13,7 @@ def test_criar_enviador_de_email():
     ['gian@remotsystem.com.br',
      'adm@remotesystem.com.br']
 )
-def test_remetente(remetente):
+def test_remetente_01(remetente):
     enviador = Enviador()
     resultado = enviador.enviar(
         remetente,
